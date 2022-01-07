@@ -1,1 +1,1 @@
-# Revtech is a design prpject using HTML/CSS/JAVASCRIPT
+# Revtech is a design prOject using HTML/CSS/JAVASCRIPT
