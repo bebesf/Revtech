@@ -8,6 +8,9 @@ Design: it was designed using figma. It comprises of the desktop and mobile view
  https://www.figma.com/file/nTkf9eJHymJ7tyGBESepoe/Untitled?node-id=0%3A1
  
  
+ The website is hosted at: https://bebesf.github.io/Revtech/
+ 
+ 
  
  
  
